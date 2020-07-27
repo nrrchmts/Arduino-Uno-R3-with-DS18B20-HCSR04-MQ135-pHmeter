@@ -16,7 +16,7 @@ Soon~
 [Link to DS18B20 repo (Soon)](#).
 
 ### `pH Mater`
-**Note: include DS18B20 for calibration! :)**
+**Note: include DS18B20 for calibration! :)**\
 [Link to pH Meter repo (Soon)](#).
 
 ### `HC-SR04`
